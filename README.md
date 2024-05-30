@@ -1,5 +1,7 @@
 # Instação do FileBrowser
 
+## Gerenciador de arquivos para servidores
+
 ### Documentação oficial
 
 [Instalação](https://filebrowser.org/installation)
